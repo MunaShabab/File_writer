@@ -1,0 +1,9 @@
+G:\CSharp\CollegeCostComparison-MunaShabab\obj\Debug\CollegeCostComparison-MunaShabab.csprojAssemblyReference.cache
+G:\CSharp\CollegeCostComparison-MunaShabab\obj\Debug\CollegeCostComparison_MunaShabab.Form1.resources
+G:\CSharp\CollegeCostComparison-MunaShabab\obj\Debug\CollegeCostComparison_MunaShabab.Properties.Resources.resources
+G:\CSharp\CollegeCostComparison-MunaShabab\obj\Debug\CollegeCostComparison-MunaShabab.csproj.GenerateResource.cache
+G:\CSharp\CollegeCostComparison-MunaShabab\bin\Debug\CollegeCostComparison-MunaShabab.exe.config
+G:\CSharp\CollegeCostComparison-MunaShabab\bin\Debug\CollegeCostComparison-MunaShabab.exe
+G:\CSharp\CollegeCostComparison-MunaShabab\bin\Debug\CollegeCostComparison-MunaShabab.pdb
+G:\CSharp\CollegeCostComparison-MunaShabab\obj\Debug\CollegeCostComparison-MunaShabab.exe
+G:\CSharp\CollegeCostComparison-MunaShabab\obj\Debug\CollegeCostComparison-MunaShabab.pdb

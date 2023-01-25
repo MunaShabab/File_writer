@@ -1,0 +1,15 @@
+*create the app with all the lables, textBoxes, and display lables
+*declare variables and initiallize them 
+*making sure that the variables are of the right data type
+*plan the calculation
+*create the click event for the calculate button
+*test the application by entering different numbers to make sure it does the calculation correctly
+*change the backColor for the display lable 
+*test with varying total costs
+*test with equal total cost
+*create a new condition for when the costs are equal
+*test with changing the numbers while the application is running
+*I created a new method that has an out parameter and tested it . everything worked the way it supposed to.
+*I addad a saveButton and created the click event for that 
+*I tested it with that data and made sure the data was of the correct format
+*I also tested it before clicking the calculate button 
